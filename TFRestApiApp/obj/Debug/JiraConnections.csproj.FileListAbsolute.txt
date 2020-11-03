@@ -1,0 +1,13 @@
+E:\JiraConnection\TFRestApiApp\bin\Debug\TFRestApiApp.exe.config
+E:\JiraConnection\TFRestApiApp\bin\Debug\TFRestApiApp.exe
+E:\JiraConnection\TFRestApiApp\bin\Debug\TFRestApiApp.pdb
+E:\JiraConnection\TFRestApiApp\bin\Debug\Atlassian.Jira.dll
+E:\JiraConnection\TFRestApiApp\bin\Debug\Newtonsoft.Json.dll
+E:\JiraConnection\TFRestApiApp\bin\Debug\RestSharp.dll
+E:\JiraConnection\TFRestApiApp\bin\Debug\Newtonsoft.Json.xml
+E:\JiraConnection\TFRestApiApp\bin\Debug\RestSharp.xml
+E:\JiraConnection\TFRestApiApp\obj\Debug\JiraConnections.csprojAssemblyReference.cache
+E:\JiraConnection\TFRestApiApp\obj\Debug\JiraConnections.csproj.CoreCompileInputs.cache
+E:\JiraConnection\TFRestApiApp\obj\Debug\JiraConnections.csproj.CopyComplete
+E:\JiraConnection\TFRestApiApp\obj\Debug\TFRestApiApp.exe
+E:\JiraConnection\TFRestApiApp\obj\Debug\TFRestApiApp.pdb
